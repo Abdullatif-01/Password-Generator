@@ -1,2 +1,60 @@
-# Password-Generator
-Python password generator that creates random passwords based on user input. The user can choose the password length and decide whether to include symbols. It uses Python’s random and string modules to generate secure passwords and includes basic input validation for a smooth experience.
+# 🔐 Password Generator (Python)
+
+A simple and secure **password generator tool** built using Python.  
+This program allows users to generate random passwords with customizable length and optional symbols for stronger security.
+
+---
+
+## 📸 Screenshot
+
+> Add your screenshot below
+
+![Password Generator Screenshot](pass_generator.png)
+
+---
+
+## 🚀 Features
+
+- 🔢 Custom password length input
+- 🔁 Input validation for correct data types
+- 🔣 Option to include symbols (Yes / No)
+- 🔐 Generates strong random passwords
+- 🔄 Ability to generate multiple passwords in one session
+- 🧠 Beginner-friendly logic using loops and conditions
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
+- `random` module
+- `string` module
+- Loops (while, for)
+- Conditional statements
+- Exception handling (try/except)
+
+---
+
+## 🧠 What I Learned
+
+- How to work with Python built-in libraries (`random`, `string`)
+- Generating secure random characters
+- Improving user input validation
+- Structuring interactive console applications
+- Handling repeated program execution efficiently
+
+---
+
+## 📌 Future Improvements
+
+- Add password strength indicator
+- Allow saving passwords to a file
+- Add GUI version using Tkinter
+- Let users choose specific character types separately (uppercase, lowercase, digits, symbols)
+
+---
+
+## 👨‍💻 Author
+
+**Abdo**  
+Cybersecurity Student | Networking Basics | Python Enthusiast
