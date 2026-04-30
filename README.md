@@ -7,7 +7,6 @@ This program allows users to generate random passwords with customizable length 
 
 ## 📸 Screenshot
 
-> Add your screenshot below
 
 ![Password Generator Screenshot](pass_generator.png)
 
