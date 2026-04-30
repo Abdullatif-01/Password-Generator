@@ -55,5 +55,4 @@ This program allows users to generate random passwords with customizable length 
 
 ## 👨‍💻 Author
 
-**Abdo**  
-Cybersecurity Student | Networking Basics | Python Enthusiast
+**Abdullatif Traisi**  
